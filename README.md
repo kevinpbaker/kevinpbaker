@@ -57,7 +57,7 @@
      ________________________    (__           |.    as an unruffled empath who solves problems
     /oooo  oooo  oooo  oooo /!   _  )_         |.    with elevated thinking.
    /ooooooooooooooooooooooo/ /  (_)_(_)        |
-  /ooooooooooooooooooooooo/ /    (o o)         |.    One day, my work will shake the world in a gentle way
+  /ooooooooooooooooooooooo/ /    (o o)         |.    One day, my work will shake the world in a gentle way.
  /C=_____________________/_/    ==\o/==        |
                                                |.    May all beings be happy!
                                                |
