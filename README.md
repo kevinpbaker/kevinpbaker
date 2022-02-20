@@ -26,10 +26,10 @@
     !! C:> cd G:                   !!  \       |.    forth over sockets using symmetric and
     !! G:> start CodeGenie.exe     !!  !       |.    asymmetric encryption.
     !! Loading...                  !!  !       |
-    !! Initializing...             !!  !       |.    Designed real time security system in HDL that
+    !! Initializing...             !!  !       |.    Created real time security system in HDL that
     !! Coding Genie Instantiated.  !!  !       |.    uses Morse code to unlock your door.
     !! Enable God Mode? (Y/N): Y   !!  !       |
-    !! Creating Code Genie...      !!  /       |.    Designed Traffic light system in HDL to mimic
+    !! Creating Code Genie...      !!  /       |.    Created Traffic light system in HDL to mimic
     !!_____________________________!! /        |.    the logic of a busy street light by the
     !/_____________________________\!/         |.    University of Saskatchewan.
          __\_________________/____             |
@@ -57,7 +57,7 @@
      ________________________    (__           |.    as an unruffled empath who solves problems
     /oooo  oooo  oooo  oooo /!   _  )_         |.    with elevated thinking.
    /ooooooooooooooooooooooo/ /  (_)_(_)        |
-  /ooooooooooooooooooooooo/ /    (o o)         |.    One day, my work will shake the world in a gentle way.
+  /ooooooooooooooooooooooo/ /    (o o)         |.    My work will shake the world in a gentle way.
  /C=_____________________/_/    ==\o/==        |
                                                |.    May all beings be happy!
                                                |
