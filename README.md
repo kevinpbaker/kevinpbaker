@@ -61,7 +61,7 @@
  /C=_____________________/_/    ==\o/==        |
                                                |.    May all beings be happy!
                                                |
- <img height="175px" src="https://c.tenor.com/JfXTd7nG-3UAAAAC/god-mode-sayians.gif">
+ <img height="115px" src="https://c.tenor.com/JfXTd7nG-3UAAAAC/god-mode-sayians.gif">
        __\_________________/_____              |      
       !_______________________!/ )             |
     ________________________    (__            |
