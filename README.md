@@ -61,13 +61,17 @@
  /C=_____________________/_/    ==\o/==        |
                                                |.    May all beings be happy!
                                                |
- <img height="115px" src="https://c.tenor.com/JfXTd7nG-3UAAAAC/god-mode-sayians.gif">
-       __\_________________/_____              |      
-      !_______________________!/ )             |
-    ________________________    (__            |
-   /oooo  oooo  oooo  oooo /!   _  )_          |
-  /ooooooooooooooooooooooo/ /  (_)_(_)         |
- /ooooooooooooooooooooooo/ /    (o o)          |
-/C=_____________________/_/    ==\o/==         |
 </pre>
-My coding level is over 9000.
+ <img height="175px" src="https://c.tenor.com/JfXTd7nG-3UAAAAC/god-mode-sayians.gif">
+<pre>
+       __\_________________/_____              
+      !_______________________!/ )             
+    ________________________    (__            
+   /oooo  oooo  oooo  oooo /!   _  )_          
+  /ooooooooooooooooooooooo/ /  (_)_(_)         
+ /ooooooooooooooooooooooo/ /    (o o)          
+/C=_____________________/_/    ==\o/==         
+<br>
+His coding level is over 9000!!!
+</pre>
+
