@@ -11,10 +11,10 @@
       ██║░░╚═╝██║░░██║██║░░██║█████╗░░         |.    Understand many of the layers in which
       ██║░░██╗██║░░██║██║░░██║██╔══╝░░         |.    computers are built upon.
       ╚█████╔╝╚█████╔╝██████╔╝███████╗         |
-      ░╚════╝░░╚════╝░╚═════╝░╚══════╝         |.    Know how to manipulate electricity
+      ░╚════╝░░╚════╝░╚═════╝░╚══════╝         |.    Know's how to manipulate electricity
                                                |.    to do useful things.
     ░██████╗░███████╗███╗░░██╗██╗███████╗      |
-    ██╔════╝░██╔════╝████╗░██║██║██╔════╝      |.    Written my own shell program in C
+    ██╔════╝░██╔════╝████╗░██║██║██╔════╝      |.    Written shell program in C
     ██║░░██╗░█████╗░░██╔██╗██║██║█████╗░░      |.    that uses the pipefd interface
     ██║░░╚██╗██╔══╝░░██║╚████║██║██╔══╝░░      |.    which allows you to pipe programs together.
     ╚██████╔╝███████╗██║░╚███║██║███████╗      |.    example: ls | tr e f
@@ -40,7 +40,7 @@
   /ooooooooooooooooooooooo/ /    (o o)         |.    in Assembly and C.
  /C=_____________________/_/    ==\o/==        |
                                                |.    Moved up the chain of abstraction and
-     _______________________________           |.    learned powerful languages like Python,
+     _______________________________           |.    learned languages like Python,
     !\_____________________________/!\         |.    Kotlin, and Typescript.
     !!                             !! \        |
     !!       System Overload       !!  \       |.    Extensive knowledge and understanding
