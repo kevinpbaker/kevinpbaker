@@ -8,13 +8,13 @@
                                                |
       ░█████╗░░█████╗░██████╗░███████╗         |.    Computer Technologist Diploma
       ██╔══██╗██╔══██╗██╔══██╗██╔════╝         |
-      ██║░░╚═╝██║░░██║██║░░██║█████╗░░         |.    Understand many of the layers in which
+      ██║░░╚═╝██║░░██║██║░░██║█████╗░░         |.    Understands many of the layers in which
       ██║░░██╗██║░░██║██║░░██║██╔══╝░░         |.    computers are built upon.
       ╚█████╔╝╚█████╔╝██████╔╝███████╗         |
       ░╚════╝░░╚════╝░╚═════╝░╚══════╝         |.    Know's how to manipulate electricity
                                                |.    to do useful things.
     ░██████╗░███████╗███╗░░██╗██╗███████╗      |
-    ██╔════╝░██╔════╝████╗░██║██║██╔════╝      |.    Written shell program in C
+    ██╔════╝░██╔════╝████╗░██║██║██╔════╝      |.    Written shell programs in C
     ██║░░██╗░█████╗░░██╔██╗██║██║█████╗░░      |.    that uses the pipefd interface
     ██║░░╚██╗██╔══╝░░██║╚████║██║██╔══╝░░      |.    which allows you to pipe programs together.
     ╚██████╔╝███████╗██║░╚███║██║███████╗      |.    example: ls | tr e f
@@ -27,9 +27,9 @@
     !! G:> start CodeGenie.exe     !!  !       |.    asymmetric encryption.
     !! Loading...                  !!  !       |
     !! Initializing...             !!  !       |.    Created real time security system in HDL that
-    !! Coding Genie Instantiated.  !!  !       |.    uses Morse code to unlock your door.
+    !! Coding Genie Instantiated.  !!  !       |.    uses Morse code to unlock a door.
     !! Enable God Mode? (Y/N): Y   !!  !       |
-    !! Creating Code Genie...      !!  /       |.    Created Traffic light system in HDL to mimic
+    !! Creating Code Genie...      !!  /       |.    Created traffic light system in HDL to mimic
     !!_____________________________!! /        |.    the logic of a busy street light by the
     !/_____________________________\!/         |.    University of Saskatchewan.
          __\_________________/____             |
@@ -47,17 +47,17 @@
     !!                             !!  !       |.    of ReactiveX programming, such as RxJS
     !!         Code Genie          !!  !       |.    and RxKotlin.
     !!                             !!  !       |
-    !!     Escaping OS Sandbox     !!  !       |.    Currently work at the top of the
+    !!     Escaping OS Sandbox     !!  !       |.    Currently works at the top of the
     !!                             !!  !       |.    abstraction stack as a software
     !!    Terminate Immediately    !!  /       |.    developer for Grassland Ventures,
-    !!_____________________________!! /        |.    where I help build startups powered
+    !!_____________________________!! /        |.    where he helps build startups powered
     !/_____________________________\!/         |.    by Venture Capital and Angel Investors.
          __\_________________/____             |
         !_____________________!/  )            |.    Described as a wise owl. Or even better,
      ________________________    (__           |.    as an unruffled empath who solves problems
     /oooo  oooo  oooo  oooo /!   _  )_         |.    with elevated thinking.
    /ooooooooooooooooooooooo/ /  (_)_(_)        |
-  /ooooooooooooooooooooooo/ /    (o o)         |.    My work will shake the world in a gentle way.
+  /ooooooooooooooooooooooo/ /    (o o)         |.    His work will shake the world in a gentle way.
  /C=_____________________/_/    ==\o/==        |
                                                |.    May all beings be happy!
                                                |
@@ -75,3 +75,6 @@
 His coding level is over 9000!!!
 </pre>
 
+---
+
+https://user-images.githubusercontent.com/48214072/224471248-9310a02a-0310-4456-977e-d0bedea30340.mp4
