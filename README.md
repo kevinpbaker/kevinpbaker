@@ -1,65 +1,65 @@
 <pre>
 ██╗███╗░░██╗░██████╗███████╗██████╗░████████╗  |
-██║████╗░██║██╔════╝██╔════╝██╔══██╗╚══██╔══╝  |.    Angular Developer
+██║████╗░██║██╔════╝██╔════╝██╔══██╗╚══██╔══╝  |.    Angular/Android Developer
 ██║██╔██╗██║╚█████╗░█████╗░░██████╔╝░░░██║░░░  |
-██║██║╚████║░╚═══██╗██╔══╝░░██╔══██╗░░░██║░░░  |.    Android Developer
+██║██║╚████║░╚═══██╗██╔══╝░░██╔══██╗░░░██║░░░  |.    Computer Engineering Degree and Diploma
 ██║██║░╚███║██████╔╝███████╗██║░░██║░░░██║░░░  |
-╚═╝╚═╝░░╚══╝╚═════╝░╚══════╝╚═╝░░╚═╝░░░╚═╝░░░  |.    Computer Engineering Degree
+╚═╝╚═╝░░╚══╝╚═════╝░╚══════╝╚═╝░░╚═╝░░░╚═╝░░░  |.    I've worked with all the layers of computing
                                                |
-      ░█████╗░░█████╗░██████╗░███████╗         |.    Computer Technologist Diploma
+      ░█████╗░░█████╗░██████╗░███████╗         |.    Created 8-bit microprocessor in HDL
       ██╔══██╗██╔══██╗██╔══██╗██╔════╝         |
-      ██║░░╚═╝██║░░██║██║░░██║█████╗░░         |.    Understands many of the layers in which
-      ██║░░██╗██║░░██║██║░░██║██╔══╝░░         |.    computers are built upon.
-      ╚█████╔╝╚█████╔╝██████╔╝███████╗         |
-      ░╚════╝░░╚════╝░╚═════╝░╚══════╝         |.    Know's how to manipulate electricity
-                                               |.    to do useful things.
-    ░██████╗░███████╗███╗░░██╗██╗███████╗      |
-    ██╔════╝░██╔════╝████╗░██║██║██╔════╝      |.    Written shell programs in C
-    ██║░░██╗░█████╗░░██╔██╗██║██║█████╗░░      |.    that uses the pipefd interface
-    ██║░░╚██╗██╔══╝░░██║╚████║██║██╔══╝░░      |.    which allows you to pipe programs together.
-    ╚██████╔╝███████╗██║░╚███║██║███████╗      |.    example: ls | tr e f
+      ██║░░╚═╝██║░░██║██║░░██║█████╗░░         |.    Written assembly programs to control micro-processors
+      ██║░░██╗██║░░██║██║░░██║██╔══╝░░         |
+      ╚█████╔╝╚█████╔╝██████╔╝███████╗         |.    Written multi-threading programs in C
+      ░╚════╝░░╚════╝░╚═════╝░╚══════╝         |
+                                               |.    Written python programs that talk over sockets
+    ░██████╗░███████╗███╗░░██╗██╗███████╗      |.    with symmetric and asymmetric encryption
+    ██╔════╝░██╔════╝████╗░██║██║██╔════╝      |   
+    ██║░░██╗░█████╗░░██╔██╗██║██║█████╗░░      |.    Extensive knowledge and understanding
+    ██║░░╚██╗██╔══╝░░██║╚████║██║██╔══╝░░      |.    of ReactiveX programming, such as RxJS  
+    ╚██████╔╝███████╗██║░╚███║██║███████╗      |.    and RxKotlin.
     ░╚═════╝░╚══════╝╚═╝░░╚══╝╚═╝╚══════╝      |
-                                               |.    Can use pthreads to do multi-threading in
-     _______________________________           |.    linux and windows (C Language).
-    !\_____________________________/!\         |
-    !! ** Code Genie Inserted **   !! \        |.    Built python programs that talk back and
-    !! C:> cd G:                   !!  \       |.    forth over sockets using symmetric and
-    !! G:> start CodeGenie.exe     !!  !       |.    asymmetric encryption.
-    !! Loading...                  !!  !       |
-    !! Initializing...             !!  !       |.    Created real time security system in HDL that
-    !! Coding Genie Instantiated.  !!  !       |.    uses Morse code to unlock a door.
+                                               |.    Currently works at the top of the
+     _______________________________           |.    abstraction stack as a software
+    !\_____________________________/!\         |.    developer for Grassland Ventures,
+    !! ** Code Genie Inserted **   !! \        |.    where he helps build startups powered
+    !! C:> cd G:                   !!  \       |.    by Venture Capital and Angel Investors.
+    !! G:> start CodeGenie.exe     !!  !       |
+    !! Loading...                  !!  !       |.    Described as a wise owl. Or even better,
+    !! Initializing...             !!  !       |.    as an unruffled empath who solves problems
+    !! Coding Genie Instantiated.  !!  !       |.    with elevated thinking.
     !! Enable God Mode? (Y/N): Y   !!  !       |
-    !! Creating Code Genie...      !!  /       |.    Created traffic light system in HDL to mimic
-    !!_____________________________!! /        |.    the logic of a busy street light by the
-    !/_____________________________\!/         |.    University of Saskatchewan.
+    !! Creating Code Genie...      !!  /       |.    May my work shake the world in a gentle way.
+    !!_____________________________!! /        |
+    !/_____________________________\!/         |.    May all beings be happy!
          __\_________________/____             |
-        !_____________________!/  )            |.    Created 8-bit microprocessor in HDL
-     ________________________    (__           |.    that uses a custom instruction set.
+        !_____________________!/  )            |
+     ________________________    (__           |
     /oooo  oooo  oooo  oooo /!   _  )_         |
-   /ooooooooooooooooooooooo/ /  (_)_(_)        |.    Written software at the lowest level
-  /ooooooooooooooooooooooo/ /    (o o)         |.    in Assembly and C.
- /C=_____________________/_/    ==\o/==        |
-                                               |.    Moved up the chain of abstraction and
-     _______________________________           |.    learned languages like Python,
-    !\_____________________________/!\         |.    Kotlin, and Typescript.
-    !!                             !! \        |
-    !!       System Overload       !!  \       |.    Extensive knowledge and understanding
-    !!                             !!  !       |.    of ReactiveX programming, such as RxJS
-    !!         Code Genie          !!  !       |.    and RxKotlin.
-    !!                             !!  !       |
-    !!     Escaping OS Sandbox     !!  !       |.    Currently works at the top of the
-    !!                             !!  !       |.    abstraction stack as a software
-    !!    Terminate Immediately    !!  /       |.    developer for Grassland Ventures,
-    !!_____________________________!! /        |.    where he helps build startups powered
-    !/_____________________________\!/         |.    by Venture Capital and Angel Investors.
-         __\_________________/____             |
-        !_____________________!/  )            |.    Described as a wise owl. Or even better,
-     ________________________    (__           |.    as an unruffled empath who solves problems
-    /oooo  oooo  oooo  oooo /!   _  )_         |.    with elevated thinking.
    /ooooooooooooooooooooooo/ /  (_)_(_)        |
-  /ooooooooooooooooooooooo/ /    (o o)         |.    His work will shake the world in a gentle way.
+  /ooooooooooooooooooooooo/ /    (o o)         |
  /C=_____________________/_/    ==\o/==        |
-                                               |.    May all beings be happy!
+                                               |
+     _______________________________           |
+    !\_____________________________/!\         |
+    !!                             !! \        |
+    !!       System Overload       !!  \       |
+    !!                             !!  !       |
+    !!         Code Genie          !!  !       |
+    !!                             !!  !       |
+    !!     Escaping OS Sandbox     !!  !       |
+    !!                             !!  !       |
+    !!    Terminate Immediately    !!  /       |
+    !!_____________________________!! /        |
+    !/_____________________________\!/         |
+         __\_________________/____             |
+        !_____________________!/  )            |
+     ________________________    (__           |
+    /oooo  oooo  oooo  oooo /!   _  )_         |
+   /ooooooooooooooooooooooo/ /  (_)_(_)        |
+  /ooooooooooooooooooooooo/ /    (o o)         |
+ /C=_____________________/_/    ==\o/==        |
+                                               |
                                                |
 </pre>
  <img height="175px" src="https://c.tenor.com/JfXTd7nG-3UAAAAC/god-mode-sayians.gif">
