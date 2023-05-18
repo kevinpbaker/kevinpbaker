@@ -1,28 +1,28 @@
 <pre>
 ██╗███╗░░██╗░██████╗███████╗██████╗░████████╗  |
-██║████╗░██║██╔════╝██╔════╝██╔══██╗╚══██╔══╝  |.    Angular/Android Developer
+██║████╗░██║██╔════╝██╔════╝██╔══██╗╚══██╔══╝  |.    Computer Engineering Degree and Diploma
 ██║██╔██╗██║╚█████╗░█████╗░░██████╔╝░░░██║░░░  |
-██║██║╚████║░╚═══██╗██╔══╝░░██╔══██╗░░░██║░░░  |.    Computer Engineering Degree and Diploma
+██║██║╚████║░╚═══██╗██╔══╝░░██╔══██╗░░░██║░░░  |.    I've worked with all the layers of computing
 ██║██║░╚███║██████╔╝███████╗██║░░██║░░░██║░░░  |
-╚═╝╚═╝░░╚══╝╚═════╝░╚══════╝╚═╝░░╚═╝░░░╚═╝░░░  |.    I've worked with all the layers of computing
+╚═╝╚═╝░░╚══╝╚═════╝░╚══════╝╚═╝░░╚═╝░░░╚═╝░░░  |.    Created 8-bit microprocessor in HDL
                                                |
-      ░█████╗░░█████╗░██████╗░███████╗         |.    Created 8-bit microprocessor in HDL
+      ░█████╗░░█████╗░██████╗░███████╗         |.    Written assembly programs that control micro-processors
       ██╔══██╗██╔══██╗██╔══██╗██╔════╝         |
-      ██║░░╚═╝██║░░██║██║░░██║█████╗░░         |.    Written assembly programs to control micro-processors
+      ██║░░╚═╝██║░░██║██║░░██║█████╗░░         |.    Written multi-threaded programs in C
       ██║░░██╗██║░░██║██║░░██║██╔══╝░░         |
-      ╚█████╔╝╚█████╔╝██████╔╝███████╗         |.    Written multi-threading programs in C
-      ░╚════╝░░╚════╝░╚═════╝░╚══════╝         |
-                                               |.    Written python programs that talk over sockets
-    ░██████╗░███████╗███╗░░██╗██╗███████╗      |.    with symmetric and asymmetric encryption
-    ██╔════╝░██╔════╝████╗░██║██║██╔════╝      |   
-    ██║░░██╗░█████╗░░██╔██╗██║██║█████╗░░      |.    Extensive knowledge and understanding
-    ██║░░╚██╗██╔══╝░░██║╚████║██║██╔══╝░░      |.    of ReactiveX programming, such as RxJS  
-    ╚██████╔╝███████╗██║░╚███║██║███████╗      |.    and RxKotlin.
+      ╚█████╔╝╚█████╔╝██████╔╝███████╗         |.    Written python programs that talk over sockets 
+      ░╚════╝░░╚════╝░╚═════╝░╚══════╝         |.    with symmetric and asymmetric encryption
+                                               |
+    ░██████╗░███████╗███╗░░██╗██╗███████╗      |.    Extensive knowledge and understanding
+    ██╔════╝░██╔════╝████╗░██║██║██╔════╝      |.    of ReactiveX programming, such as RxJS     
+    ██║░░██╗░█████╗░░██╔██╗██║██║█████╗░░      |.    and RxKotlin.
+    ██║░░╚██╗██╔══╝░░██║╚████║██║██╔══╝░░      |
+    ╚██████╔╝███████╗██║░╚███║██║███████╗      |.    Angular/Android Developer
     ░╚═════╝░╚══════╝╚═╝░░╚══╝╚═╝╚══════╝      |
                                                |.    Currently works at the top of the
      _______________________________           |.    abstraction stack as a software
     !\_____________________________/!\         |.    developer for Grassland Ventures,
-    !! ** Code Genie Inserted **   !! \        |.    where he helps build startups powered
+    !! ** Code Genie Inserted **   !! \        |.    where I help build startups powered
     !! C:> cd G:                   !!  \       |.    by Venture Capital and Angel Investors.
     !! G:> start CodeGenie.exe     !!  !       |
     !! Loading...                  !!  !       |.    Described as a wise owl. Or even better,
