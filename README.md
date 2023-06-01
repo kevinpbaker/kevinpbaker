@@ -1,65 +1,43 @@
 <pre>
-██╗███╗░░██╗░██████╗███████╗██████╗░████████╗  |
-██║████╗░██║██╔════╝██╔════╝██╔══██╗╚══██╔══╝  |.    Computer Engineering Degree and Diploma
-██║██╔██╗██║╚█████╗░█████╗░░██████╔╝░░░██║░░░  |
-██║██║╚████║░╚═══██╗██╔══╝░░██╔══██╗░░░██║░░░  |.    I've worked with all the layers of computing
-██║██║░╚███║██████╔╝███████╗██║░░██║░░░██║░░░  |
-╚═╝╚═╝░░╚══╝╚═════╝░╚══════╝╚═╝░░╚═╝░░░╚═╝░░░  |.    Created 8-bit microprocessor in HDL
-                                               |
-      ░█████╗░░█████╗░██████╗░███████╗         |.    Written assembly programs that control micro-processors
-      ██╔══██╗██╔══██╗██╔══██╗██╔════╝         |
-      ██║░░╚═╝██║░░██║██║░░██║█████╗░░         |.    Written multi-threaded programs in C
-      ██║░░██╗██║░░██║██║░░██║██╔══╝░░         |
-      ╚█████╔╝╚█████╔╝██████╔╝███████╗         |.    Written python programs that talk over sockets 
-      ░╚════╝░░╚════╝░╚═════╝░╚══════╝         |.    with symmetric and asymmetric encryption
-                                               |
-    ░██████╗░███████╗███╗░░██╗██╗███████╗      |.    Extensive knowledge and understanding
-    ██╔════╝░██╔════╝████╗░██║██║██╔════╝      |.    of ReactiveX programming, such as RxJS     
-    ██║░░██╗░█████╗░░██╔██╗██║██║█████╗░░      |.    and RxKotlin.
-    ██║░░╚██╗██╔══╝░░██║╚████║██║██╔══╝░░      |
-    ╚██████╔╝███████╗██║░╚███║██║███████╗      |.    Angular/Android Developer
-    ░╚═════╝░╚══════╝╚═╝░░╚══╝╚═╝╚══════╝      |
-                                               |.    Currently works at the top of the
-     _______________________________           |.    abstraction stack as a software
-    !\_____________________________/!\         |.    developer for Grassland Ventures,
-    !! ** Code Genie Inserted **   !! \        |.    where I help build startups powered
-    !! C:> cd G:                   !!  \       |.    by Venture Capital and Angel Investors.
-    !! G:> start CodeGenie.exe     !!  !       |
-    !! Loading...                  !!  !       |.    Described as a wise owl. Or even better,
-    !! Initializing...             !!  !       |.    as an unruffled empath who solves problems
-    !! Coding Genie Instantiated.  !!  !       |.    with elevated thinking.
-    !! Enable God Mode? (Y/N): Y   !!  !       |
-    !! Creating Code Genie...      !!  /       |.    May my work shake the world in a gentle way.
-    !!_____________________________!! /        |
-    !/_____________________________\!/         |.    May all beings be happy!
-         __\_________________/____             |
-        !_____________________!/  )            |
-     ________________________    (__           |
-    /oooo  oooo  oooo  oooo /!   _  )_         |
-   /ooooooooooooooooooooooo/ /  (_)_(_)        |
-  /ooooooooooooooooooooooo/ /    (o o)         |
- /C=_____________________/_/    ==\o/==        |
-                                               |
      _______________________________           |
-    !\_____________________________/!\         |
-    !!                             !! \        |
-    !!       System Overload       !!  \       |
-    !!                             !!  !       |
-    !!         Code Genie          !!  !       |
-    !!                             !!  !       |
-    !!     Escaping OS Sandbox     !!  !       |
-    !!                             !!  !       |
-    !!    Terminate Immediately    !!  /       |
+    !\_____________________________/!\         |.    Computer Engineering Degree and Diploma
+    !! ** Code Genie Inserted **   !! \        |
+    !! C:> cd G:                   !!  \       |.    I've worked with all the layers of computing
+    !! G:> start CodeGenie.exe     !!  !       |
+    !! Loading...                  !!  !       |.    Created 8-bit microprocessor in HDL
+    !! Initializing...             !!  !       |
+    !! Coding Genie Instantiated.  !!  !       |.    Written assembly programs that control micro-processors
+    !! Enable God Mode? (Y/N): Y   !!  !       |
+    !! Creating Code Genie...      !!  /       |.    Written multi-threaded programs in C
     !!_____________________________!! /        |
+    !/_____________________________\!/         |.    Written python programs that talk over sockets 
+         __\_________________/____             |.    with symmetric and asymmetric encryption
+        !_____________________!/  )            |
+     ________________________    (__           |.    Extensive knowledge and understanding
+    /oooo  oooo  oooo  oooo /!   _  )_         |.    of ReactiveX programming, such as RxJS     
+   /ooooooooooooooooooooooo/ /  (_)_(_)        |.    and RxKotlin.
+  /ooooooooooooooooooooooo/ /    (o o)         |
+ /C=_____________________/_/    ==\o/==        |.    Angular/Android Developer
+                                               |
+     _______________________________           |.    Currently works at the top of the
+    !\_____________________________/!\         |.    abstraction stack as a software
+    !!                             !! \        |.    developer for Grassland Ventures,
+    !!       System Overload       !!  \       |.    where I help build startups powered
+    !!                             !!  !       |.    by Venture Capital and Angel Investors.
+    !!         Code Genie          !!  !       |
+    !!                             !!  !       |.    Described as a wise owl. Or even better,
+    !!     Escaping OS Sandbox     !!  !       |.    as an unruffled empath who solves problems
+    !!                             !!  !       |.    with elevated thinking.
+    !!    Terminate Immediately    !!  /       |
+    !!_____________________________!! /        |.    May my work shake the world in a gentle way.
     !/_____________________________\!/         |
-         __\_________________/____             |
+         __\_________________/____             |.    May all beings be happy!
         !_____________________!/  )            |
      ________________________    (__           |
     /oooo  oooo  oooo  oooo /!   _  )_         |
    /ooooooooooooooooooooooo/ /  (_)_(_)        |
   /ooooooooooooooooooooooo/ /    (o o)         |
  /C=_____________________/_/    ==\o/==        |
-                                               |
                                                |
 </pre>
  <img height="175px" src="https://c.tenor.com/JfXTd7nG-3UAAAAC/god-mode-sayians.gif">
