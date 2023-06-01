@@ -6,7 +6,7 @@
     !! G:> start CodeGenie.exe     !!  !       |
     !! Loading...                  !!  !       |.    Created 8-bit microprocessor in HDL
     !! Initializing...             !!  !       |
-    !! Coding Genie Instantiated.  !!  !       |.    Written assembly programs that control micro-processors
+    !! Coding Genie Instantiated.  !!  !       |.    Written assembly programs that control µ-processors
     !! Enable God Mode? (Y/N): Y   !!  !       |
     !! Creating Code Genie...      !!  /       |.    Written multi-threaded programs in C
     !!_____________________________!! /        |
