@@ -19,7 +19,7 @@
   /ooooooooooooooooooooooo/ /    (o o)         |
  /C=_____________________/_/    ==\o/==        |.    Angular/Android Developer
                                                |
-     _______________________________           |.    Currently works at the top of the
+     _______________________________           |.    Currently working at the top of the
     !\_____________________________/!\         |.    abstraction stack as a software
     !!                             !! \        |.    developer for Grassland Ventures,
     !!       System Overload       !!  \       |.    where I help build startups powered
